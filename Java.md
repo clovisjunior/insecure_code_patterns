@@ -1,6 +1,6 @@
 ## Command Injection
 
-Runtime, getRuntime,exec, ProcessBuilder, CommandLine, JShell
+Runtime, getRuntime,exec, ProcessBuilder, CommandLine, JShell, Class.forName(...), JDBC DriverManager.getConnection(...), getDeclaredField, getDeclaredMethod, invoke (Reflection)
 
 ## Sql Injection
 
